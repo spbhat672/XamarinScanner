@@ -1,3 +1,11 @@
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\InspectApp.iOS.csproj.CoreCompileInputs.cache
+D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\InspectApp.iOS.csprojAssemblyReference.cache
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Debug\InspectApp.iOS.exe
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Debug\InspectApp.iOS.pdb
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
@@ -60,14 +68,6 @@ D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Deb
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Debug\ZXing.Net.Mobile.Forms.iOS.dll
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Debug\InspectApp.dll
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\bin\iPhoneSimulator\Debug\InspectApp.pdb
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\optimized\
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\InspectApp.iOS.csprojAssemblyReference.cache
-D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\InspectApp.iOS.csproj.CoreCompileInputs.cache
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\InspectApp.iOS.csproj.CopyComplete
 D:\vsProjects\Xmrin\InspectApp\InspectApp\InspectApp.iOS\obj\iPhoneSimulator\Debug\InspectApp.iOS.exe

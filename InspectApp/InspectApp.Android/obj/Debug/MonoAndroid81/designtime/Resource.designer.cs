@@ -6243,9 +6243,6 @@ namespace InspectApp.Droid
 			// aapt resource value: 0x1
 			public const int classic = 1;
 			
-			// aapt resource value: 0x7F010184
-			public const int collectionViewStyle = 2130772356;
-			
 			// aapt resource value: 0x1
 			public const int contact = 1;
 			
@@ -6486,14 +6483,14 @@ namespace InspectApp.Droid
 			// aapt resource value: 0x7F010178
 			public const int main.appbar = 2130772344;
 			
+			// aapt resource value: 0x7F010181
+			public const int main.scrollview = 2130772353;
+			
 			// aapt resource value: 0x7F010180
 			public const int main.tablayout = 2130772352;
 			
 			// aapt resource value: 0x7F010179
 			public const int main.toolbar = 2130772345;
-			
-			// aapt resource value: 0x7F010181
-			public const int main.viewpager = 2130772353;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -6761,6 +6758,9 @@ namespace InspectApp.Droid
 			
 			// aapt resource value: 0x7F010182
 			public const int shellcontent.appbar = 2130772354;
+			
+			// aapt resource value: 0x7F010184
+			public const int shellcontent.scrollview = 2130772356;
 			
 			// aapt resource value: 0x7F010183
 			public const int shellcontent.toolbar = 2130772355;
@@ -8282,9 +8282,6 @@ namespace InspectApp.Droid
 			
 			// aapt resource value: 0x1
 			public const int CastMiniController = 1;
-			
-			// aapt resource value: 0x7F050404
-			public const int collectionViewStyle = 2131035140;
 			
 			// aapt resource value: 0x1
 			public const int CustomCastTheme = 1;

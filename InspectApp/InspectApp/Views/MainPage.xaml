@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:InspectApp"
+             x:Class="InspectApp.MainPage"
+             Title="Welcom Page"
+             NavigationPage.HasBackButton="False">
+
+    <ContentPage.Content>
+        <Grid Margin="16">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Text="Inspection No." TextColor="Red" Font="Bold,20"/>
+            <StackLayout Grid.Row="0" Grid.Column="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="1" Text="" x:Name="inspectionNumber" TextColor="Red" HorizontalOptions="Center"/>
+                    <Button Grid.Row="0" Grid.Column="0" Text="Scan" Clicked="inspectionNoBtn_Clicked"/>
+                    
+                </Grid>
+            </StackLayout>
+
+            <Label Grid.Row="1" Grid.Column="0" Text="Product No." TextColor="Red" Font="Bold,20"/>
+            <StackLayout Grid.Row="1" Grid.Column="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="1" Text="" x:Name="productNumber" TextColor="Red" HorizontalOptions="Center"/>
+                    <Button Grid.Row="0" Grid.Column="0" Text="Scan" Clicked="productNoBtn_Clicked"/>
+                    
+                </Grid>
+            </StackLayout>
+
+            <Label Grid.Row="2" Grid.Column="0" Text="Quantity" TextColor="Red" Font="Bold,20"/>
+            <Entry Grid.Row="2" Grid.Column="1" x:Name = "Quantity" Placeholder = "Quantity" HeightRequest = "40" Keyboard="Numeric"/>
+
+            <Button Grid.Row="3" x:Name= "submiBtn" Text = "Submit " HorizontalOptions = "FillAndExpand" BackgroundColor="Aqua" BorderColor="Black" TextColor="Green" Clicked="SaveBtn_Clicked"/>
+
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>
